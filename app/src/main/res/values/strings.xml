@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Comp Movil</string>
+    <string name="login">LOGIN</string>
+    <string name="user">Usuario</string>
+    <string name="password">Password</string>
+    <string name="registreseAqui">¡Registrese Aquí!</string>
+    <string name="noestaregistrado">¿No está registrado?</string>
+    <string name="usuario">usuario</string>
 </resources>
